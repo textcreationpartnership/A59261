@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The wisdom of publick piety discoursed in a sermon preached before the Right Honourable the Lord Mayor and Aldermen of the city of London, at the Guild-Hall Chappel, Septemb. XXVIII, 1679 / by Edmund Sermon ...</title>
+            <author>Sermon, Edmund, b. 1643 or 4.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59261</idno>
+            <idno type="STC">Wing S2624</idno>
+            <idno type="STC">ESTC R16086</idno>
+            <idno type="EEBO-CITATION">13150778</idno>
+            <idno type="OCLC">ocm 13150778</idno>
+            <idno type="VID">98094</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59261)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98094)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 751:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The wisdom of publick piety discoursed in a sermon preached before the Right Honourable the Lord Mayor and Aldermen of the city of London, at the Guild-Hall Chappel, Septemb. XXVIII, 1679 / by Edmund Sermon ...</title>
+                  <author>Sermon, Edmund, b. 1643 or 4.</author>
+               </titleStmt>
+               <extent>[4], 31, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  James III, 13 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Piety --  Biblical teaching.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98094:1"/>
+            <pb facs="tcp:98094:1" rendition="simple:additions"/>
+            <p>THE WISDOM OF Publick Piety DISCOURSED, IN A SERMON PREACHED <hi>Before the Right Honourable</hi> THE Lord MAYOR and ALDERMEN Of the CITY of LONDON, At the GUILD-HALL Chappel, <hi>Septemb.</hi> xxviii. 1679.</p>
+            <p>By <hi>EDMUND SERMON,</hi> Maſter of ARTS, and late of St. <hi>Mary</hi> HALL in <hi>OXFORD.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby,</hi> at the <hi>Biſhop</hi>'s Head in St. <hi>Paul</hi>'s Church-Yard, 1679.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:98094:2"/>
+            <p>
+               <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>giving the aſſiſtance of Your favour to the Diſcourſe which is here offered to You. It is a Diſcourſe which came forth with as great diſadvantages as can well be ſuppoſed; the compoſing of it being incommoded with the weakneſs of an obſcure Author; and the delivery of it obſtruded by ſuch an indiſpo<g ref="char:EOLhyphen"/>ſition, as for a ſpace deprived him of the uſe of memory and ſpeech. An accident which as it was unhappy in giving a diſtur<g ref="char:EOLhyphen"/>bance to ſuch an Auditory; ſo poſſibly it might have the good effect upon ſome minds, to make the impreſſions of ſome things upon them more deep and effectual. However, what it was Your patience firſt to ſtay for, it was Your goodneſs afterwards candidly to interpret. And I wiſh that the Diſcourſe which could not be ſo well heard, were more worthy of Your ſight and peruſal. But ſuch as it is, I humbly Dedicate to Your fa<g ref="char:EOLhyphen"/>vourable acceptance, as an imperfect deſcri<g ref="char:EOLhyphen"/>ption
+<pb facs="tcp:98094:2"/>of that Moderation and Prudence; which, as it hath made Your Government of a Great City ſo uſeful and advantageous to it, in a tumultuous and diſtracted Time; ſo may it ever continue to be as ſucceſsful to promote the benefit of Publick Peace and Order: which is the Prayer of</p>
+            <closer>
+               <salute>RIGHT HONOURABLE,</salute>
+               <signed>Your moſt humbly devoted in all Obſervance, <hi>EDMUND SERMON.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:98094:3"/>
+            <pb n="1" facs="tcp:98094:3"/>
+            <head>A SERMON ON JAM. III. XIII. <hi>Who is a wiſe man, and endued with know<g ref="char:EOLhyphen"/>ledge amongſt you? let him ſhew out of a good converſation his works with meek<g ref="char:EOLhyphen"/>neſs of wiſdom.</hi>
+            </head>
+            <p>THe reaſonable Soul being the excellency of Man's nature, and wiſdom and know<g ref="char:EOLhyphen"/>ledge the perfection of that; no wonder that all who have any reſpect for themſelves, and that value the honour of their Creation, ſhould ardently affect thoſe accompliſhments of the mind, or at leaſt the opinion and repute of them.</p>
+            <p>It was not without good reaſon, that our Sa<g ref="char:EOLhyphen"/>viour declared the higheſt puniſhment to be due to him who ſhould ſay to another, <hi>Thou fool</hi> [Mat.
+<pb n="2" facs="tcp:98094:4"/>5.22.] that he particularly ſaid concerning ſuch a reproacher of his neighbour, that he was in danger of Hell-fire. Becauſe the imputing of fol<g ref="char:EOLhyphen"/>ly to a man, being in effect to degrade him from his manhood, and to rank him with a lower ſort of creatures that are void of reaſon, as it is a re<g ref="char:EOLhyphen"/>flection upon God's workmanſhip, ſo it hath ever been by the univerſal reſentment of mankind, ta<g ref="char:EOLhyphen"/>ken for one of the moſt unſufferable affronts and provocations that can be given.</p>
+            <p>So that nothing is more apt to diſſolve all the ties, and deſtroy all the endearments of common friendſhip, to ſtir up the malignity of choler and indignation, and conſequently to produce all the miſchiefs enſuing thereupon. Nothing doth ſoon<g ref="char:EOLhyphen"/>er exaſperate men to variance, and engage them in the moſt irreconcilable quarrels and bloody combats.</p>
+            <p>For the moſt mean and degenerate ſpirit is even to impatience ſenſible of the infamy of ignorance and indiſcretion. And generally to tax men with lack of wit, is more unpardonable than to brand them with want of honeſty. 'Tis ſafer to im<g ref="char:EOLhyphen"/>peach their morality than their underſtanding; and to diſparage their judgment is a more intole<g ref="char:EOLhyphen"/>rable offence, than with the ſevereſt reflexions to expoſe their conſcience. And the reaſon is, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="3" facs="tcp:98094:4"/>to thoſe who have any conſcience, the de<g ref="char:EOLhyphen"/>priving them of reaſon is the ſame thing as the denying them religion; nay, 'tis the ſame thing as to make them beaſts, which are uncapable of the impreſſions of Divinity. And as for thoſe who have no conſcience, thoſe very men think it their intereſt to preſerve a reputation of policy and cunning, albeit they ſeldom uſe it, but to carry them through ſuch actions as are unconſcion<g ref="char:EOLhyphen"/>able.</p>
+            <p>But though the World hath ſo much fondneſs and concern for the title of wiſdom, and eſteems it to be ſo very glorious and reverend; yet the unhappineſs of it is, that the moſt of men run a<g ref="char:EOLhyphen"/>way with the empty name of wiſdom, not know<g ref="char:EOLhyphen"/>ing what particular thing is intended by it. Some general and confuſed conceit they have of ſome<g ref="char:EOLhyphen"/>thing that is very excellent and noble; but being ignorant of the ſpecialty wherein it conſiſts, they commonly run counter to their own aims, and flee from wiſdom whilſt they aſpire towards it. And ſeeing truth is but one, and the oppoſite miſtakes are infinite; 'tis no wonder that men ſhould in<g ref="char:EOLhyphen"/>vent as many ways to be wiſe, as they have of ſhewing themſelves vain and imprudent; no won<g ref="char:EOLhyphen"/>der that in this caſe their errors ſhould be mani<g ref="char:EOLhyphen"/>fold, when rightly to perſue wiſdom argues ſome
+<pb n="4" facs="tcp:98094:5"/>poſſeſſion of it, and nothing but diſcretion can truly inform us what it ſelf is.</p>
+            <p>Now in this variety of humane imaginations, the wiſdom of God interpoſeth its direction and umpirage; and to relieve the weakneſs of our minds, and to prevent the uncertainty and extra<g ref="char:EOLhyphen"/>vagance of our choice, gives us a diſtinct notion of the wiſdom which is properly ſo called; that ſo we might not be loſt in the maze of our own thoughts, but might clearly diſcern the way and method, by which we may ſucceſsfully ſteer to<g ref="char:EOLhyphen"/>wards that great attainment.</p>
+            <p>But ſeeing wiſdom directs us to that which is our crown and ornament; and ſeeing the glory of the beſt capacity lies in that exerciſe of it, into which life and action reduceth it; and ſeeing withall that every honourable employment is ma<g ref="char:EOLhyphen"/>naged by proper rules and laws; 'tis eaſie to be conceived that ſuch inſtructions as reach to the truth of wiſdom, muſt extend to the due conduct and government of our actions.</p>
+            <p>And farther, in that the moſt perfect of our actions are thoſe that are publick, and that is moſt anſwerable to our capacity which we do in rela<g ref="char:EOLhyphen"/>tion to our common league and ſociety with the reſt of mankind, it follows, that no precepts come up to the height of wiſdom, but thoſe that teach
+<pb n="5" facs="tcp:98094:5"/>us rightly to compoſe and order our converſation in the World. And therefore according to theſe meaſures St. <hi>James</hi> reſolves that important queſti<g ref="char:EOLhyphen"/>on, To whom the character of wiſdom and know<g ref="char:EOLhyphen"/>ledge truly belongs? as it is plainly expreſſed in the words of the Text, <hi>Who is a wiſe man, &amp;c.</hi>
+            </p>
+            <p>Where we need not ſtand critically to diſpute, whether the Apoſtle meant, that a good conver<g ref="char:EOLhyphen"/>ſation tempered with meekneſs is a demonſtration of wiſdom and knowledge; or that wiſdom and knowledge oblige and direct men to ſuch a con<g ref="char:EOLhyphen"/>verſation; it being in effect the ſame, which ſenſe of the two we take; becauſe if a good converſa<g ref="char:EOLhyphen"/>tion be a proof of wildom, then wiſdom muſt oblige and direct us to it: and if wiſdom doth oblige and direct us to ſuch a converſation, no<g ref="char:EOLhyphen"/>thing without that converſation can be a proof of wiſdom.</p>
+            <p>And therefore to proceed; Two things are to be conſidered in the words.
+<list>
+                  <item>1.) That a good converſation is a principal ſign of a wiſe and underſtanding man.</item>
+                  <item>(2.) That meekneſs is an eſſential part of that good converſation which denominates a man tru<g ref="char:EOLhyphen"/>ly wiſe and knowing.</item>
+               </list>
+            </p>
+            <p n="1">(1.) A good converſation is a principal ſign of a wiſe and underſtanding man. This will
+<pb n="6" facs="tcp:98094:6"/>appear evident whether we conſult the Princi<g ref="char:EOLhyphen"/>ples,
+<list>
+                  <item>(1.) Of that wiſdom which is revealed; Or,</item>
+                  <item>(2.) Of that which is natural.</item>
+               </list>
+            </p>
+            <p n="1">(1.) If we conſult the principles of that wiſ<g ref="char:EOLhyphen"/>dom which is revealed. For this wiſdom teach<g ref="char:EOLhyphen"/>eth us, that as our life was not given us by our own power, ſo it is not to be ſpent to our own purpoſes.</p>
+            <p>God hath made us ſociable Creatures, and fit<g ref="char:EOLhyphen"/>ted us for converſing with thoſe of our own frame; and therefore, not to have correſpondence with thoſe in whoſe nature we communicate, that is, not to perform thoſe Offices for them which we are capable of doing, is to contradict the end of our Creation.</p>
+            <p>The faireſt pretence that can be made for Mens withdrawing themſelves from humane enter<g ref="char:EOLhyphen"/>courſe, and addicting themſelves to ſolitude and retirement is this, that thereby they have freedom for thoſe contemplations, from which company and buſineſs doth divert them.</p>
+            <p>But what I pray are thoſe Contemplations? If they are ſuch nice and ſubtle things as exhauſt Mens age and ſtrength, and at laſt leave their Judgments unreſolved, and their Vertue unim<g ref="char:EOLhyphen"/>proved; I know no man of whom they are re<g ref="char:EOLhyphen"/>quired,
+<pb n="7" facs="tcp:98094:6"/>but contrariwiſe they are forbidden to all. But as for ſuch as are more neceſſary and uſeful to the government of a Man's life, there needs no ſuch long time to be ſpent for ſatisfaction about them. And as they are made obvious by an or<g ref="char:EOLhyphen"/>dinary diligence, ſo when they are ſully compre<g ref="char:EOLhyphen"/>hended by one, it is his duty to impart them to others.</p>
+            <p>This, if any lover of privacy, and his own thoughts neglect as a thing not incumbent upon him; 'tis plain that he tranſgreſſeth the rules of that common juſtice, which if others ſhould as little regard as himſelf, the world could not ſubſiſt. For, is not the Man who muſeth in his Cell, be<g ref="char:EOLhyphen"/>holden to others for his temporal ſupport? Do his lofty ſpeculations and curious enquiries pro<g ref="char:EOLhyphen"/>vide the Bread that he eats, or the Cloaths he puts on? If then he receive ſuch benefit from the la<g ref="char:EOLhyphen"/>bours of other Men, common juſtice requires that according to his capacity he ſhould make them ſome recompence. And no way is ſo conveni<g ref="char:EOLhyphen"/>ent for making them a requital, as the allowing them the advantage of his Chriſtian converſation with them.</p>
+            <p>'Tis true, Men may be allowed to live recluſe for a ſeaſon, in order to the preparing of them<g ref="char:EOLhyphen"/>ſelves for a publick Office, ſo <hi>John</hi> the Baptiſt
+<pb n="8" facs="tcp:98094:7"/>
+               <hi>was in the Defarts until the time of his ſhowing unto Iſrael.</hi> [Luk. 1.80.] So the Schools of the Pro<g ref="char:EOLhyphen"/>phets were places ſequeſtred from common fami<g ref="char:EOLhyphen"/>liarity and buſineſs, and dedicated to the ſtudy of uſeful knowledge, ſuch as might put them into the beſt capacity to receive the gift of prophecie, and the admonitions of God.</p>
+            <p>But then that gift in the <hi>Jewiſh</hi> Church was ordained for the benefit and edification of others, as well as it was afterwards in the Chriſtian. So that notwithſtanding the inſtance alledged, he that conceals himſelf within a Cloyfter, and de<g ref="char:EOLhyphen"/>votes himſelf to a perpetuity of ſolitarineſs, doth manifeſtly oppoſe the deſigns of privacy; he makes that his end which was only his way, con<g ref="char:EOLhyphen"/>founds his education with his employment, and takes up his reſt in that ſecrecy and retirement which was intended to fit him for the diſcharge of ſome publick truſt.</p>
+            <p>But if it be incumbent upon Men to be of pub<g ref="char:EOLhyphen"/>lick ſpirits, and to do their Generation ſervice; and conſequently to be of ſociable tempers, and to converſe with their Neighbours; 'tis as requi<g ref="char:EOLhyphen"/>ſite that their converſation ſhould be good. For it were better that we had no communication at all with Men, than that it ſhould be ſuch as <hi>cor<g ref="char:EOLhyphen"/>rupts good manners.</hi> And how much it is our
+<pb n="9" facs="tcp:98094:7"/>wiſdom by what hath been dictated to us in the Goſpel, to walk honeſtly and without blame, is evident from hence, that <hi>the wrath of God is reveal<g ref="char:EOLhyphen"/>ed from Heaven againſt all ungodlineſs and unrighteouſ<g ref="char:EOLhyphen"/>neſs of men, who hold the truth in unrighteouſneſs,</hi> [Rom. 1.18.] and that <hi>the Lord Jeſus ſhall be revealed from Heaven with his mighty Angels, in flaming Fire, taking vengeance of them that know not God, and that obey not the Goſpel,</hi> [2 Theſſ. 1.7, 8.] So that ac<g ref="char:EOLhyphen"/>cording to the Principles of Chriſtianity, 'tis our greateſt wiſdom to be of an upright converſati<g ref="char:EOLhyphen"/>on; becauſe the contrary is our damnation. And to ſhew how deplorable a ſtate of miſery it is to which an evil converſation leaves us liable, our Sa<g ref="char:EOLhyphen"/>viour hath plainly told us, [Mat. 18.6.] that <hi>whoſo ſhall offend,</hi> that is, ſcandalize, or by wick<g ref="char:EOLhyphen"/>ed practice make to offend <hi>one of thoſe little ones that believe in him; it were better for him that a Mill-ſtone were hung about his neck, and that he were drowned in the depth of the Sea.</hi> All which he will find to be true, when he is caſt into the Lake that burns with Fire and Brimſtone.</p>
+            <p>But a good converſation is not an argument of wiſdom, as wiſdom is only taken for a zealous care of our own welfare; but alſo as it implies ſtrength of reaſon, and ſoundneſs of judgment to take right methods, that this welfare may be
+<pb n="10" facs="tcp:98094:8"/>ſecured. For Religion doth not wholly conſiſt in being affectionately concerned for that which is ultimately to be deſired; but it requires ſober<g ref="char:EOLhyphen"/>neſs of mind, regularity of thought, and an un<g ref="char:EOLhyphen"/>derſtanding well informed, ſuch as is of ability to apprehend, and propoſe what is really con<g ref="char:EOLhyphen"/>ducive to our great advantage.</p>
+            <p>And what neceſſity there is of a Man's being very judicious, in order to his being capable of a good converſation, will appear upon more ac<g ref="char:EOLhyphen"/>counts than one. For if we conſider the frailties to which we our ſelves are ſubject; if we call to mind how many vain and enchanting fancies, how many ſtrong and pre-engaged affections, how ma<g ref="char:EOLhyphen"/>ny ſubtle inſinuations of our enemy, and how ma<g ref="char:EOLhyphen"/>ny ſurpriſing temptations of the World, do con<g ref="char:EOLhyphen"/>tinually beſiege us, to bring us into bondage to folly and vice, we cannot but acknowledge that there is need of very great prudence and fore<g ref="char:EOLhyphen"/>ſight, of the moſt ſerious conſideration, and of the moſt ſtaid and watchful mind, to eſcape the dangers wherewith we are encompaſſed. And he that by ſhunning all thoſe ſnares can approve himſelf a Chriſtian, doth certainly ſhow himſelf to be a very great Man.</p>
+            <p>Again, one great law of Chriſtian converſation, is that we walk charitably, with reſpect and compaſ<g ref="char:EOLhyphen"/>ſion
+<pb n="11" facs="tcp:98094:8"/>towards our weak Brethren. So that no Man's converſation is unblameable but his, who doth nothing whereby he cauſeth his Neighbour to offend. This is plainly and fully determined by the Apoſtle, [1 <hi>Cor.</hi> 8.] where he ſtates that great caſe of conſcience, of eating things offered in ſacrifice to Idols. For [<hi>v.</hi> 4.] he grants, that the thing in it ſelf is not abſolutely ſinful: be<g ref="char:EOLhyphen"/>cauſe he that knew that an Idol was nothing in the World, and that there was but one true God, might eat of thoſe meats as the gift of that God, giving thanks to him, and not paying any wor<g ref="char:EOLhyphen"/>ſhip and honour to the Idol: But then he tells us [<hi>v.</hi> 7.] that the taking of this liberty might be prejudicial to ſome weak perſons, who having not ſo much judgment to diſtinguiſh as others, might by their example be encouraged to eat with <hi>conſcience of the Idol,</hi> as the expreſſion runs, that is, with ſome portion at leaſt of that reſpect which the Heathens gave to their Idols in their Feſtivals.</p>
+            <p>And the general rule that preſides in this caſe holds no leſs in all the parts of a Chriſtian's life: For in every action 'tis his duty to conſult, not only the integrity of his own conſcience, but al<g ref="char:EOLhyphen"/>ſo the ſafety of his Neighbours; and he is by the ſtricteſt law of religion bound upon pain of
+<pb n="12" facs="tcp:98094:9"/>damnation, to abſtain from any publick act, which by a probability of conſequence and na<g ref="char:EOLhyphen"/>tural tendency may induce his Neighbour to com<g ref="char:EOLhyphen"/>mit a ſin.</p>
+            <p>And where a Man is bound to walk ſo cir<g ref="char:EOLhyphen"/>cumſpectly, there is need of very good diſcreti<g ref="char:EOLhyphen"/>on to make all things regular. He that muſt conſider all the weakneſs of others, and uſe cau<g ref="char:EOLhyphen"/>tion that the ignorant may not be enſnared by his practice, muſt very well forecaſt in his mind what may be the circumſtances and events of actions; and this argues no ſmall dexterity of reaſon.</p>
+            <p>Nay farther, Chriſtianity doth not only ob<g ref="char:EOLhyphen"/>lige us to conſult the condition of the ſimple, but of the froward too. We may not tranſact at any rate as we pleaſe, with thoſe who are of crooked tempers. When they are unreaſonable, we muſt be diſcreet; and when they are mad and outragious, we muſt be calm and moderate. Juſt men muſt not ſlander, revile and threaten, or exerciſe revenge and cruelty, becauſe the Sons of <hi>Belial</hi> do ſo. The man of God, of what condition ſoever, muſt be gentle and patient. But when a Man is aſſaulted with inſolent pro<g ref="char:EOLhyphen"/>vocations, not to be diſcompoſed and tranſpor<g ref="char:EOLhyphen"/>ted ſo as to act any thing unbeſeeming the gra<g ref="char:EOLhyphen"/>vity
+<pb n="13" facs="tcp:98094:9"/>of his judgment, or the dignity of his place, is certainly an argument of a moſt admirable prudence, and demonſtrates the government and command of himſelf to be very ſingular.</p>
+            <p n="2">(2.) If we conſult the principles of that wiſ<g ref="char:EOLhyphen"/>dom which is natural, a good converſation will appear to be a principal ſign of a wiſe and un<g ref="char:EOLhyphen"/>derſtanding Man. And that upon Two ac<g ref="char:EOLhyphen"/>counts.</p>
+            <p n="1">(1.) Becauſe a good converſation doth moſt conduce to a Man's preſervation.</p>
+            <p n="2">(2.) Becauſe that adminiſters the trueſt ſatiſ<g ref="char:EOLhyphen"/>ſaction.</p>
+            <p n="1">(1.) Becauſe it doth moſt conduce to a Man's preſervation.</p>
+            <p>And becauſe I would not have my arguments to be precarious, or give occaſion to any to ſay that they take the advantage of a popular pre<g ref="char:EOLhyphen"/>judice and opinion; I ſhall beg your leave to diſ<g ref="char:EOLhyphen"/>courſe it a little, as if I ſuppoſed my ſelf to have to do with thoſe to whom Scripture and Go<g ref="char:EOLhyphen"/>ſpel is no authority.</p>
+            <p>To proceed then: 'Tis poſſible that many are not ſo well acquainted with the Fundamental maxims of truth and reaſon, and the courſe and government of the World, or have not ſo good a faculty to draw concluſions from thoſe Prin<g ref="char:EOLhyphen"/>ciples,
+<pb n="14" facs="tcp:98094:10"/>as by the ſtrength of their own reaſoning to find out a God to whom belongs Power and Judgment. But then 'tis as certain, that by all the ſophiſtry and ſpeculation imaginable, no Man is able to prove that there is no ſuch Being, as governs and gives laws now, and will hereafter reward and puniſh Men according as their con<g ref="char:EOLhyphen"/>verſations have been good or evil. And there<g ref="char:EOLhyphen"/>fore a ſtate of vertue is in wiſdom to be preferred before that of vice, upon the ſcore of ſafety and preſervation; becauſe however things be, a good Man cannot be miſerable hereafter, whereas a wicked man, though he be an Atheiſt, may for ought he knows be ſo eternally: and it is a di<g ref="char:EOLhyphen"/>ctate of wiſdom in caſe of uncertainty to avoid danger, and provide againſt the worſt that may be ſuppoſed to happen. The only objection that can be made againſt this, is, That uncertainty is not to be preferred before certainty; but to this religion ſometimes obliges us, when Perfecution ariſeth upon the account of it; for at ſuch time the keeping of our conſcience damnifies us in a preſent convenience, and for the ſake of what we expect we loſe that good which we have in ſure poſſeſſion.</p>
+            <p>But as plauſible as this objection may ſeem, it is eaſily ſilenced. For beſide that it reacheth
+<pb n="15" facs="tcp:98094:10"/>not all times, let us but conſider the vaſt diſpro<g ref="char:EOLhyphen"/>portion that there is between the ſhort age of Man, and that Eternity which infinitely exceeds all time: that in a very ſhort ſpace, it will be all one whether a Man lived here in plenty, or pe<g ref="char:EOLhyphen"/>riſhed for want of Bread; yea, if we conſider him in reſpect only to this World, that it will be all one whether ever he had had any Being in it or no: let us but conſider how ſmall the goods are which the Atheiſt poſſeſſeth, in compariſon of the evils which he may juſtly fear; and we muſt conclude that it is no wiſdom to keep ſuch inconſiderable certainties, when we run a hazard that is infinitely more conſiderable than they. Eſpe<g ref="char:EOLhyphen"/>cially when thoſe preſent certainties are ſo uncer<g ref="char:EOLhyphen"/>tain, as that we are liable to the final loſs of them every moment; and the pretended uncertainties are ſo far certain, that the beſt reaſon of Man doth oblige him to expect them.</p>
+            <p n="2">(2.) A good converſation doth adminiſter the trueſt ſatisfaction. For this only can make Men hope for a future bleſſedneſs. And what ſatisfaction is comparable to the ſtedfaſt looking to the recompence of the reward? This is a joy that the irreligious man wants: and to take him in the moſt favourable circumſtances, it cannot but ſomewhat ſtun and afflict him in his delight
+<pb n="16" facs="tcp:98094:11"/>to think, that after a little time he can enjoy it no more.</p>
+            <p>But ſuppoſe he ſaith that he hath no need of a holy comfort: that he can careſs himſelf with the diverſions of mirth, and fortifie his mind by pleaſures againſt all melancholy and ſorrowful preſages; yet it cannot be denied, but that the hope of real happineſs hereafter is a greater ſa<g ref="char:EOLhyphen"/>tisfaction, than barely not to be diſmayed with the terrors of Death and Judgment.</p>
+            <p>Beſides, ſeeing the Atheiſt cannot with all his art diſprove the Articles of our Faith; he hath no way to ſecure himſelf from the ſad jealouſies and ſuſpicions of future miſery, but by debauch<g ref="char:EOLhyphen"/>ing his mind, and hurrying himſelf beyond all conſideration. And what wiſdom I pray is in that complacency, which prohibits the beſt uſe of our reaſon, and wretchedly enjoyns the un<g ref="char:EOLhyphen"/>derſtanding to withdraw.</p>
+            <p>Nor is this carnal ſolace of the irreligious Man only unſound and irrational, but (as all ſuch things are,) it is alſo unſtable: it accompanieth a Man when he hath leaſt need of it; but aſſoon as he is deſtitute of other helps, that forſakes him too. For upon conſideration of the whole matter, we ſhall find that this is a ſolace only for them, whoſe eſtates are plentiful, and conſtituti<g ref="char:EOLhyphen"/>ons
+<pb n="17" facs="tcp:98094:11"/>firm; whoſe minds are not croſſed, nor their ſpirits decayed. It may attend Men whilſt they are rich and healthful; but when they fall un<g ref="char:EOLhyphen"/>der poverty or pain, it vaniſheth like a dream or ſhadow.</p>
+            <p>'Tis true indeed, if a Man be only poor, Athe<g ref="char:EOLhyphen"/>iſm can preſcribe this remedy, to ſteal and filch his Neighbours goods, that his own ſubſtance may be encreaſed by it: which yet is but a de<g ref="char:EOLhyphen"/>ſperate remedy, where there is either pubick law and juſtice in a Nation, or but the natural dictate of ſelf-preſervation, as there is in all private men: and in a contention which is here to be ſuppoſed, 'tis very great odds but the pooreſt will be over<g ref="char:EOLhyphen"/>come.</p>
+            <p>And when this way of Men's making their con<g ref="char:EOLhyphen"/>dition better proves unſucceſsful, irreligion hath nothing better to propoſe to them, than by a ſtroke at their life to put an end to it. And this is all the comfort it can adminiſter to them in time of ſickneſs, when they are neither able to hurt others nor help themſelves; when their <hi>ſoul abhors all manner of meat;</hi> and <hi>they ſay of laughter it is mad;</hi> when the moſt pleaſant recreations are diſtaſtful to them. And is this a ſatisfaction e<g ref="char:EOLhyphen"/>qual to what the juſt Man hath, who in the cri<g ref="char:EOLhyphen"/>tical minute of affliction and diſtreſs triumphs in
+<pb n="18" facs="tcp:98094:12"/>the proſpect of God's great ſalvation? How much better were it for a Man in anguiſh and torture to have hope in the everlaſting God? This hope would turn his very evils into helps, and make Death it ſelf to appear his greateſt ad<g ref="char:EOLhyphen"/>vantage. So great ſupports has righteouſneſs in the worſt eſtate, and the ſpirit of a juſt Man <hi>will ſuſtain his infirmities.</hi> And ſo much may ſuf<g ref="char:EOLhyphen"/>fice to be ſpoken to the firſt thing conſiderable in the words, <hi>viz.</hi> That a good converſation is a principal ſign of a wiſe and underſtanding Man; I now proceed to,</p>
+            <p n="2">(2.) The ſecond thing, which is, that meek<g ref="char:EOLhyphen"/>neſs is an eſſential part of that good converſa<g ref="char:EOLhyphen"/>tion which denominates a Man truly wiſe and knowing.</p>
+            <p>The truth of this will appear upon Three Grounds.</p>
+            <p n="1">(1.) Becauſe meekneſs preſerves the World from trouble and diſquietneſs.</p>
+            <p n="2">(2.) It is an advantage to Men's conference and diſcourſe.</p>
+            <p n="3">(3.) It makes them ſucceſsful in their under<g ref="char:EOLhyphen"/>takings.</p>
+            <p n="1">(1.) Meekneſs preſerves the World from trou<g ref="char:EOLhyphen"/>ble and diſquietneſs. It is upon theſe very terms commanded by our Saviour [Mat. 11.29.] <hi>Take
+<pb n="19" facs="tcp:98094:12"/>my yoke upon you, and learn of me, for I am meek and lowly in heart; and ye ſhall find reſt unto your ſouls.</hi>
+            </p>
+            <p>'Tis the nature of meekneſs to calm the mind, and preſerve it from vexation. For it is contra<g ref="char:EOLhyphen"/>ry to wrath and fury; and therefore look how much trouble rage is to a Man's ſpirit, ſo much doth meekneſs help us to avoid.</p>
+            <p>Nor doth it only prevent the trouble and tor<g ref="char:EOLhyphen"/>ment of anger, but it is alſo inſeparably united with other quieting Graces, ſuch as humility and contentment, by which means all fretting paſſi<g ref="char:EOLhyphen"/>ons are ſtilled. For he that is of ſo ſerious a tem<g ref="char:EOLhyphen"/>per as not to be incenſed with provocations, can certainly avoid the follies of pride and diſcontent; he can reſt ſatisfied in a low place, wherein his gracious God puts him, and chearfully acquieſce in the diſpoſals of his wiſe providence.</p>
+            <p>And what a happineſs is it for a Man to enjoy ſuch peace and tranquillity of mind, and to be exempt from the diſturbances and turmoils of paſſion and luſt! This is to have a foretaſte of Heaven, and in ſome degree to be in an Ange<g ref="char:EOLhyphen"/>lical ſtate; whilſt in the midſt of thoſe occurren<g ref="char:EOLhyphen"/>ces which cut unwiſe Men to the heart, we can be quiet and unconcerned, ſing praiſes to God for all his works; and our Souls can with free<g ref="char:EOLhyphen"/>dom return to their reſt.</p>
+            <pb n="20" facs="tcp:98094:13"/>
+            <p>Nor doth meekneſs only grant peace to a Man's own breaſt, but it alſo keeps the peace of the World. For the wrath of Man ſets on fire the whole courſe of Nature. Anger hath in it the true property of fire, which is to pro<g ref="char:EOLhyphen"/>duce it ſelf in the ſubject upon which it works: and ſo the forcing of it ſtirs up ſtrife. And where is then the wiſdom of allowing it? It wracks the mind wherein it abides, and deſtroys its pleaſure; for he that is angry is certainly diſ<g ref="char:EOLhyphen"/>pleaſed; and he that is diſpleaſed, muſt want his complacency. Nor is this all, but it alſo gives continual occaſion of its own continuance. For it puts others into a heat like our own; thereby depriving us of the conſolation of their kindneſs and aſſiſtance. It makes us either contemptible or odious to them; and ſo the great comfort of Man's life, friendly ſociety, is utterly loſt.</p>
+            <p n="2">(2.) Meekneſs is an advantage to Men's con<g ref="char:EOLhyphen"/>ference and diſcourſe.</p>
+            <p>He that would diſcourſe like a wiſe Man muſt firſt judge ſo; and he that would judge rightly, and be conſtant in it, muſt be of a ſedate ſpirit. For if his mind be diſturbed, he can neither learn, teach, nor uſe knowledge. He cannot learn. Now <hi>Solomon</hi> gives this account of a wiſe Man, [Prov. 1.5.] <hi>That a wiſe man will hear, and will
+<pb n="21" facs="tcp:98094:13"/>encreaſe knowledge; and a man of underſtanding ſhall attain unto wiſe counſels:</hi> It's a ſign of the greateſt ignorance, for a Man to preſume that he hath wiſdom enough; and it argues a taſt of know<g ref="char:EOLhyphen"/>ledge, when a Man uſeth diligence to obtain it: inſomuch that were not our underſtandings na<g ref="char:EOLhyphen"/>turally furniſhed with the firſt principles and common notions of wiſdom, we could not poſ<g ref="char:EOLhyphen"/>ſibly ſtudy to advance and improve it.</p>
+            <p>But is any Man a lover of wiſdom? would he learn and find out what he hath not yet known? he muſt be very conſiderate, and ſeri<g ref="char:EOLhyphen"/>ouſly compare things together. And if ſo, it follows that he muſt be calm and diſpaſſionate. Becauſe the perturbations of the mind, darken, diſtract and confound the underſtanding: and the thoughts of wrathful men are too haſty and urgent, and thereupon too immethodical to be diſcreet. And if it be a matter of divine wiſ<g ref="char:EOLhyphen"/>dom, wherein ſpiritual illumination is required; the wrathful and unquiet ſpirit hath no reaſon to expect that; the promiſe of it being made particularly to the meek, [Pſal. 25.9.] <hi>The meek will he guide in judgment, and the meek will he teach his way.</hi>
+            </p>
+            <p>Nor can a wrathful perſon inform another, For his paſſion puts him out of his conceptions:
+<pb n="22" facs="tcp:98094:14"/>it tranſports him beyond his right ſenſe, and ſo diverts him from his proper method. Beſides he that would inſtruct, muſt not only comply with the capacity, but in ſome meaſure alſo with the temper of his Diſciples: as knowing how much a readineſs or averſion in the will doth diſpoſe the underſtanding to give or deny aſſent. But paſſion, if it meet with the more ſoft and tender diſpoſitions, terrifies and ſcares them out of their own thoughts; ſo that they have not the uſe of their own faculties. And if it hath to deal with the more ſtout and un<g ref="char:EOLhyphen"/>daunted, the diſcouragement that it gives them doth but make them deſperate and harden them by degrees to an inflexible obſtinacy of reſolu<g ref="char:EOLhyphen"/>tion.</p>
+            <p>For the heat of paſſion taking away the ſtea<g ref="char:EOLhyphen"/>dy uſe of reaſon from the inſtructor, and by a natural efficacy propagating it ſelf in the learner, there is but little underſtanding to be found be<g ref="char:EOLhyphen"/>twixt them; and then the appearance of wrath makes a Man ſo deteſtable and hateful, that when there is but a little reaſon left, it may well be thought it will be to no purpoſe.</p>
+            <p>And what farther ſhows the folly of paſſion; it renders men uncapable of uſing in any way the knowledge which they have learnt. For it di<g ref="char:EOLhyphen"/>ſturbs
+<pb n="23" facs="tcp:98094:14"/>their reaſon, and makes their thoughts to be deſultory and incoherent. It puts them be<g ref="char:EOLhyphen"/>ſide the true uſe of their memory; for when there is not ſerious deliberation to guide it, it's recollections muſt needs be very caſual and un<g ref="char:EOLhyphen"/>certain. In this caſe men are led as brutes, by the diſorderly motions of fancy and appetite. And what licentious and irregular imaginations may intrude, when the guard of conſideration is re<g ref="char:EOLhyphen"/>ſigned to thoſe powers, the wandring diſcourſe of Lunaticks may ſufficiently inform us. So that meekneſs is a neceſſary qualification to pre<g ref="char:EOLhyphen"/>ſerve us from extravagance, and is therefore an eſſential part of that converſation which deno<g ref="char:EOLhyphen"/>minates a Man truly wiſe and knowing.</p>
+            <p n="3">(3.) Meekneſs makes men ſucceſsful in their undertakings. For 'tis eaſie to miſcarry in any attempt, wherein true diſcretion is not our guide: but when fury is in place, diſcretion is abſent.</p>
+            <p>It muſt be granted, that where-ever anger is, there is ſome cauſe or other in debate. But the wrathful man doth much thwart his own inten<g ref="char:EOLhyphen"/>tion, in doing diſſervice to that intereſt for which he contends.</p>
+            <p>For like a furious Warrior he falls on raſhly, whilſt his adverſary keeps his ground, and watch<g ref="char:EOLhyphen"/>es an opportunity to attack him in that part
+<pb n="24" facs="tcp:98094:15"/>which is weakeſt, and give him a blow where he can leaſt bear it.</p>
+            <p>But meekneſs gives a Man the advantage of a clear reaſon, and hath an art whereby it vanqui<g ref="char:EOLhyphen"/>ſheth both Parties and Neuters. It overcomes thoſe that are Parties in a quarrel, in that it tires them out. For though anger be troubleſome to a Man's ſelf, and though it be heightened by diſ<g ref="char:EOLhyphen"/>agreement and oppoſition, yet ſuch is the mad<g ref="char:EOLhyphen"/>neſs of it, that it deſires oppoſition and conflict, and nothing wearies out angry ſpirits more, than to ſee their indignation and fury ſlighted; and ſo when they have ſufficiently ſpent their virulency and rancour, wanting new fewel of provoca<g ref="char:EOLhyphen"/>tion from others to maintain their flame, they quietly deſiſt; and when they find that notwith<g ref="char:EOLhyphen"/>ſtanding all impreſſions their adverſary remains unſhaken, they do like thoſe aſſailants, who quit the ſiege when they find the Fort to be impreg<g ref="char:EOLhyphen"/>nable.</p>
+            <p>And hence it may eaſily be conceived how much meekneſs may recommend a cauſe to by<g ref="char:EOLhyphen"/>ſtanders; who being diſintereſſed have no ſuch ſtrong prejudice to be ſubdued. For the effects of rage are abominable in the common ſenſe of humanity. Raillery, reviling, ſmiting, and the like, make a Perſon ſcandalous; and when
+<pb n="25" facs="tcp:98094:15"/>he himſelf is accounted ſo bad, his cauſe and quarrel will not be eſteemed much better.</p>
+            <p>What ſay the indifferent Men of ſuch a Hot<g ref="char:EOLhyphen"/>ſpur? this is an abuſive, a ſcurrilous, and injuri<g ref="char:EOLhyphen"/>ous fellow; he knows not what religion, and con<g ref="char:EOLhyphen"/>ſcience, nor common civility is. We have reaſon to fear this Man's principles: For if we be not what he requires, he will deal with us in as bad a manner. We have reaſon to ſuſpect this Man's cauſe; for if it were good, theſe outrages might be ſpared, as being both unſuitable and unuſe<g ref="char:EOLhyphen"/>ful to it: If there be an evil in the circumſtance of his quarrel, why may not there be in the ſub<g ref="char:EOLhyphen"/>ſtance of it? and if he make uſe of indirect ways, why may he not as well aim at an unjuſt end? Thus doth fury make the credit of a Man's cauſe ſink in the eſtimation of indifferent Men.</p>
+            <p>Beſides, what is more conſiderable for the ma<g ref="char:EOLhyphen"/>king Men's ways unproſperous, ſeeing whatever the wrathful contend for, they muſt unavoidably be enemies to God and his Grace; it pleaſeth him to curb their fury, and to put his hook into their noſtrils, to defeat their purpoſes and blaſt their endeavours. For as the wrath of Man works not the righteouſneſs of God, ſo neither will God ſuffer it to accompliſh the will of Man. No: the rage of man muſt not govern the world;
+<pb n="26" facs="tcp:98094:16"/>and God forbid that it ever ſhould; that ever that rage ſhould prevail, which makes men not only as unreaſonable as brutes; but oftentimes as mercileſs and ſavage too. Excellently to this purpoſe ſpeaks <hi>David,</hi> [Pſal. 76.7, 8, 9, 10.] <hi>Thou, even thou art to be feared, and who may ſtand in thy ſight when once thou art angry? Thou didſt cauſe judgment to be heard from Heaven; the Earth feared and was ſtill, when God aroſe to judgment to ſave all the meek of the earth. Surely the wrath</hi> of man ſhall praiſe thee: <hi>the remainder of wrath ſhalt thou reſtrain.</hi>
+            </p>
+            <p>But will ſome ask, may we not then be an<g ref="char:EOLhyphen"/>gry? and may we not expreſs our indignation againſt diſhoneſt things in ſome ſeverity? Yea doubtleſs, not to be capable of anger is to be ſtu<g ref="char:EOLhyphen"/>pid. And that upon ſome accounts we may be ſevere with men, appears by the preſidents of Magiſtracy in the Law, and the rules concerning it in the Goſpel; as alſo by the example of <hi>Da<g ref="char:EOLhyphen"/>vid</hi> curſing the Churches enemies, of Chriſt ſharply rebuking the Scribes and Phariſees, and of <hi>Paul</hi> in his conflict with <hi>Elymas</hi> the Sorcer<g ref="char:EOLhyphen"/>er. But then we muſt well weigh the occaſi<g ref="char:EOLhyphen"/>on, that our anger may be adjuſted to it, and not exceed the bounds of moderation.</p>
+            <p>And now having ſpoken thus much for the
+<pb n="27" facs="tcp:98094:16"/>enforcing of a good converſation, and of meek<g ref="char:EOLhyphen"/>neſs, ſo eſſential a part of it; I ſhall conclude my Diſcourſe with a little Direction.</p>
+            <p n="1">(1.) In order to a good converſation in gene<g ref="char:EOLhyphen"/>ral, that beſides imploring the help of the divine grace, you would be watchful and circumſpect, that you do not unadviſedly fall into ſnares. 'Tis wiſdom to foreſee and prevent the occaſions of ſinning. And if by chance a temptation over<g ref="char:EOLhyphen"/>take you, do not trifle and dally with it. Be ferious in reaſoning with your ſelves againſt it; and remember what you have been taught, and what you believe. Conſider the matter well, and when you have perceived it to be ſinful, ſay with your ſelves, Do I not believe that for ſuch things God will bring me into judgment, and that for ſuch things the wrath of God com<g ref="char:EOLhyphen"/>eth upon the children of diſobedience? Why then ſhould I to gratifie the incitement of a luſt, do this wickedneſs and ſin againſt God, and ſo pierce my ſelf through with everlaſting ſor<g ref="char:EOLhyphen"/>rows?</p>
+            <p n="2">(2.) In order to meekneſs in particular, be<g ref="char:EOLhyphen"/>ſides praying for the gift of the ſpirit of love and gentleneſs,</p>
+            <p n="1">(1.) Uſe thoſe Conſiderations that may be Remedies againſt wrath and diſpleaſure.</p>
+            <pb n="28" facs="tcp:98094:17"/>
+            <p>Conſider the weakneſs of laying the blame of your paſſion upon the occaſion of it. Can that force you to be paſſionate without your conſent and allowance? No, your ſelves muſt be ac<g ref="char:EOLhyphen"/>ceſſary to your own indignation.</p>
+            <p>Conſider beſides, what weakneſs and inexperi<g ref="char:EOLhyphen"/>ence of things it argues to be diſcompoſed at things without us. Is not the courſe of the World ſuch? and is there any better to be ex<g ref="char:EOLhyphen"/>pected? ſhall our fury reduce things to a better ſtate? When we have raged and tormented our ſelves never ſo much, our anger may indeed help to make things worſe, but is the moſt unlikely means to put them into a better poſture.</p>
+            <p>Conſider again, that if there were no thwart<g ref="char:EOLhyphen"/>ings and provocations, there would be no need of ſuch a vertue as meekneſs; nor would there be any ſuch vertue at all. For if nothing croſſed us, but all things went according to our mind, there would be no occaſion nor trial of meekneſs, for it would be impoſſible that we ſhould be o<g ref="char:EOLhyphen"/>therwiſe than pleaſed. But becauſe things will fall out oppoſitely to our deſires and expectati<g ref="char:EOLhyphen"/>ons, therefore meekneſs is enjoyned as a means to relieve us.</p>
+            <p>We may do well to conſider withall, that if things happen ſo ill as to diſquiet us, whether it
+<pb n="29" facs="tcp:98094:17"/>is not wiſdom to make the beſt that we can of them; and ſo whether it be not our wiſdom, in<g ref="char:EOLhyphen"/>ſtead of ſtrugling with a provocation, to ſuppreſs and ſtifle our reſentments of it.</p>
+            <p>And ſeeing anger is moſt frequently ſtirred up by the provocations that are given by Men; and ſeeing we are not angry with Men, but when we judge that they deal unduly with us; As it becomes us to ſee that this judgment be true, and that we do not unjuſtly apprehend a wrong, when there is none done to us; ſo upon condition that we are injured, it were worthy of our conſideration, how much it degrades a Perſon who hath the ho<g ref="char:EOLhyphen"/>nour to be juſt, to ſtoop ſo low to the brutiſh, as to be wounded with a reſentment of their villany; and how much it is beneath the mind of ſuch a man to be diſordered by the rudeneſs of diſorder<g ref="char:EOLhyphen"/>ly men. The very being concerned at their in<g ref="char:EOLhyphen"/>ſolence doth but make it too plauſible, whilſt it ſhews them to be ſuch as deſerve conſideration. <hi>Ye ſuffer fools gladly</hi> (ſaith the Apoſtle) <hi>ſeeing ye your ſelves are wiſe,</hi> [2 Cor. 11.19.] And ſaith the wiſe man, [Prov. 26.4.] <hi>Anſwer not a fool according to his folly, leſt thou alſo be like unto him:</hi> that is, take notice of him no farther than is ne<g ref="char:EOLhyphen"/>ceſſary to prevent the evil that may follow from the toleration of his pride and vanity. It being
+<pb n="30" facs="tcp:98094:18"/>a reproach to a wiſe man to ſubmit his wiſdom to the pleaſure and controulment of a fool, who <hi>ra<g ref="char:EOLhyphen"/>geth and is confident:</hi> whoſe brutiſh paſſions firſt deprive him of ſober ſenſe, and then give him courage and boldneſs to expoſe his want of it. So true is that ſaying of <hi>Solomon,</hi> [Prov. 14.29.] <hi>He that is flow to wrath is of great underſtanding: but he that it haſty of ſpirit exalteth folly.</hi>
+            </p>
+            <p n="2">(2.) Avoid thoſe worldly affections and de<g ref="char:EOLhyphen"/>ſires, which are the primitive and fundamental incentives to anger, as Covetouſneſs and Am<g ref="char:EOLhyphen"/>bition. For theſe make Men competitors for the ſame things, and ſo ſtir up anger and emu<g ref="char:EOLhyphen"/>lation amongſt them. One is diſpleaſed, be<g ref="char:EOLhyphen"/>cauſe another carries away his profit; and ano<g ref="char:EOLhyphen"/>ther, becauſe his Neighbour ſteps in between him and honour. And eſpecially pride pro<g ref="char:EOLhyphen"/>duceth the greateſt animoſities and heart-burn<g ref="char:EOLhyphen"/>ings amongſt Men. Thus when a Man is puf<g ref="char:EOLhyphen"/>fed up with the wiſdom of ſpeculation, he is angry that others are not of his judgment; though they perhaps have more reaſon to be diſpleaſed with him, becauſe he is not of theirs.</p>
+            <p>And generally where Men have great thoughts of themſelves, they expect great regard and ob<g ref="char:EOLhyphen"/>ſervance from others; and this earneſtneſs and confidence of expectation makes them wrath<g ref="char:EOLhyphen"/>ful
+<pb n="31" facs="tcp:98094:18"/>when they are diſappointed. And how far their rage and diſcontent may go, and in what inhumanity it may end, as we do not know, ſo we need not to enquire; it being ſufficient that we know thus much, that the effects of it are very ſad and diſmal.</p>
+            <p>Now the God of Patience and Conſolation grant us to be like-minded one towards ano<g ref="char:EOLhyphen"/>ther, according to Chriſt Jeſus, to whom with the Father and the Holy Spirit, be aſcribed Dominion, Bleſſing and Praiſe, both now and for ever.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <pb facs="tcp:98094:19"/>
+            <pb facs="tcp:98094:19"/>
+            <pb facs="tcp:98094:20"/>
+            <head>
+               <hi>EDWARDS</hi> MAYOR.</head>
+            <opener>
+               <hi>Cur. Special. tent.</hi> 
+               <date>
+                  <hi>die Lunae in Feſto Sancti Michaelis Archangeli</hi> 1679. <hi>Annoque Regni Regis</hi> CAROLI <hi>Secundi Angl. &amp;c.</hi> xxxi.</date>
+            </opener>
+            <p>THis COURT doth deſire Mr. <hi>Ser<g ref="char:EOLhyphen"/>mon</hi> to Print his Sermon preach'd Yeſterday at the <hi>Guild-Hall</hi> Chappel, before the Lord <hi>Mayor</hi> and <hi>Aldermen</hi> of this CITY.</p>
+            <closer>
+               <signed>WAGSTAFFE.</signed>
+            </closer>
+            <pb facs="tcp:98094:20"/>
+         </div>
+      </back>
+   </text>
+</TEI>
